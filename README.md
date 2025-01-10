@@ -25,7 +25,7 @@ This project features a 5-axis robotic arm designed for picking and placing pack
   - 5-axis robotic arm
   - Servo motors
   - Raspberry Pi
-  - (Add any additional hardware requirements)
+  - (Add any additional hardware if required)
 
 - Software:
   - YOLO for object detection
